@@ -24,9 +24,6 @@ A simple and stylish web application built with Flask that allows users to:
 ```bash
 git clone https://github.com/SARTHAK574/git clone https://github.com/SARTHAK574/leetpasswordgenerator.git
 cd password-strength-leet-generator
-Install Flask
-python app.py
-cd password-strength-leet-generator
-Install Flask
+pip Install Flask
 python app.py
 
